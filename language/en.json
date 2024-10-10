@@ -2557,9 +2557,9 @@
             "texto2": "[❗] SELECTED MESSAGE IS NOT A VIEW ONCE (VIEW ALONE)"
         },
         "herramientas_spamwa": {
-            "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 56983073328|reply :v|25*",
-            "texto2": "[ ⚠️ ] PLEASE AVOID SPAMMING MESSAGES TO HACK SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 56983073328|reply :v|25*",
-            "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 56983073328|reply :v|25*",
+            "texto1": "[ ⚠️ ] PLEASE AVOID EXCESSIVE USE OF MESSAGE SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 50766454639‬|reply :v|25*",
+            "texto2": "[ ⚠️ ] PLEASE AVOID SPAMMING MESSAGES TO HACK SPAM!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 50766454639‬|reply :v|25*",
+            "texto3": "[ ⚠️ ] THE QUANTITY SHOULD BE LESS!\nHOW TO USE:\n*—◉ #spamwa number|text|quantity*\nEXAMPLE:\n*—◉ #spamwa 50766454639‬|reply :v|25*",
             "texto4": "[ ⚠️ ] MESSAGES SHOULD BE LESS THAN 50 MESSAGES️",
             "texto5": [
                 "[❗] MESSAGE SPAM IS ABOVE LIMIT\nPLEASE CONSULT THE ADMIN\nEMERGENCY CONTACT:\n*—◉",
@@ -2620,20 +2620,20 @@
         },
         "info_creador": {
             "texto1": [
-                "—◉ My creator's number is wa.me/56983073328",
-                "—◉ Collaborator 1's number is wa.me/56983073328",
-                "—◉ Collaborator 2's number is wa.me/56983073328",
-                "—◉ Collaborator 3's number is wa.me/56983073328",
-                "—◉ Collaborator 4's number is wa.me/56983073328",
-                "—◉ Collaborator 5's number is wa.me/56983073328",
-                "—◉ Collaborator 6's number is wa.me/56983073328",
-                "—◉ Collaborator 7's number is wa.me/56983073328",
-                "—◉ Collaborator 8's number is wa.me/56983073328",
-                "—◉ Collaborator 9's number is wa.me/56983073328",
-                "—◉ Collaborator 10's number is wa.me/56983073328",
+                "—◉ My creator's number is wa.me/50766454639‬",
+                "—◉ Collaborator 1's number is wa.me/50766454639‬",
+                "—◉ Collaborator 2's number is wa.me/50766454639‬",
+                "—◉ Collaborator 3's number is wa.me/50766454639‬",
+                "—◉ Collaborator 4's number is wa.me/50766454639‬",
+                "—◉ Collaborator 5's number is wa.me/50766454639‬",
+                "—◉ Collaborator 6's number is wa.me/50766454639‬",
+                "—◉ Collaborator 7's number is wa.me/50766454639‬",
+                "—◉ Collaborator 8's number is wa.me/50766454639‬",
+                "—◉ Collaborator 9's number is wa.me/50766454639‬",
+                "—◉ Collaborator 10's number is wa.me/50766454639‬",
                 "—◉ Collaborator 11's contact is https://instagram.com/gata_dios",
-                "—◉ Collaborator 12's number is wa.me/56983073328",
-                "—◉ Collaborator 13 in Brazil's number is wa.me/56983073328"
+                "—◉ Collaborator 12's number is wa.me/50766454639‬",
+                "—◉ Collaborator 13 in Brazil's number is wa.me/50766454639‬"
             ],
             "texto2": [
                 "「 Hello World 」",
@@ -2654,14 +2654,14 @@
                 "➤ PAYPAL: https://www.paypal.me/ineffablexmvrco",
                 "👉🏻 CONTACT IF NECESSARY",
                 "MORE DATA AND TO THANK",
-                "wa.me/56983073328"
+                "wa.me/50766454639‬"
             ]
         },
         "info_estado": {
             "texto1": [
                 "*< INFORMATION - STATE />*_",
                 "▢ *Owner:* Bruno Sobrino",
-                "▢ *WA:* +56983073328",
+                "▢ *WA:* +50766454639‬",
                 "▢ *PayPal:* paypal.me/TheShadowBrokers133",
                 "▢ *Ping:*",
                 "▢ *Uptime:*",
