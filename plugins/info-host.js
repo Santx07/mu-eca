@@ -38,7 +38,7 @@ ${tradutor.texto1[16]}
   const buttonMessage= {
     'document': {url: `https://www.instagram.com/josssi_bot.ff/`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝑯𝒆𝒍𝒍𝒐 𝑾𝒐𝒓𝒍𝒅 」`,
+    'fileName': `「  𝐌𝐔Ñ𝐄𝐂𝐀 𝐁𝐎𝐓 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {
