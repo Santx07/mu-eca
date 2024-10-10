@@ -35,7 +35,6 @@ const handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, i
     const str = `┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
 ┃⭐ Creador : josselyne
 ┃📞 Wa.me/50766454639‬
-┃https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC
 ┖━━━━━━━ ∙ʚ⚜️ɞ∙ ━━━━━━━┚
 
 
