@@ -38,7 +38,7 @@ ${tradutor.texto1[16]}
   const buttonMessage= {
     'document': {url: `https://www.instagram.com/josssi_bot.ff/`},
     'mimetype': `application/${document}`,
-    'fileName': `「  𝐌𝐔Ñ𝐄𝐂𝐀 𝐁𝐎𝐓 」`,
+    'fileName': `「  𝐊𝐈𝐋𝐋𝐙𝐍 」`,
     'fileLength': 99999999999999,
     'pageCount': 200,
     'contextInfo': {

@@ -2654,8 +2654,8 @@
                 "*—◉ 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝙳𝙴𝙻 𝙲𝙾𝙻𝙰𝙱𝙾𝚁𝙰𝙳𝙾𝚁 13 BR wa.me/50766454639‬*"
             ],
             "texto2": [
-                "「  𝐌𝐔Ñ𝐄𝐂𝐀 𝐁𝐎𝐓 」",
-                "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
+                "「  ������ 」",
+                "@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔⁩"
             ]
         },
         "info_donar": {
@@ -2708,8 +2708,8 @@
                 "*4.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC",
                 "*5.-* https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC"
             ],
-            "texto2": "「  𝐌𝐔Ñ𝐄𝐂𝐀 𝐁𝐎𝐓 」",
-            "texto3": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
+            "texto2": "「  ������ 」",
+            "texto3": "@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔⁩"
         },
         "info_host": {
             "texto1": [
@@ -2735,7 +2735,7 @@
         },
         "info_instalarbot": {
             "texto1": "*—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻 𝙱𝙾𝚇𝙼𝙸𝙽𝙴 𝙷𝙾𝚂𝚃*\n> Tutorial: https://youtu.be/eC9TfKICpcY\n> Pagina Oficial: https://boxmineworld.com\n> Dashboard: https://dash.boxmineworld.com/home\n> Panel: https://panel.boxmineworld.com\n> Soporte: https://discord.gg/84qsr4v \n\n------------------------------------\n—◉ 𝚃𝚄𝚃𝙾𝚁𝙸𝙰𝙻-𝚃𝙴𝚁𝙼𝚄𝚇\n> https://youtu.be/yRS4m36Zwkw\n\n------------------------------------\n\n*—◉ 𝙲𝙾𝙼𝙰𝙽𝙳𝙾𝚂 𝚃𝙴𝚁𝙼𝚄𝚇*\n> Comandos:\n- cd && termux-setup-storage\n- apt-get update -y && apt-get upgrade -y\n- pkg install -y git nodejs ffmpeg imagemagick && pkg install yarn \n- git clone https://github.com/BrunoSobrino/TheMystic-Bot-MD.git && cd TheMystic-Bot-MD\n- yarn install\n- npm install\n- npm update\n- npm start\n\n------------------------------------\n\n—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd TheMystic-Bot-MD\n> npm start\n\n------------------------------------\n\n—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽\nESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:\n> cd TheMystic-Bot-MD\n> rm -rf MysticSession\n> npm start",
-            "texto2": "ᴇʟ ᴍᴇᴊᴏʀ ʙᴏᴛ ᴅᴇ ᴡʜᴀᴛsᴀᴘᴘ⁩"
+            "texto2": "@𝖎𝖓𝖊𝖋𝖋𝖆𝖇𝖑𝖊.𝖒𝖛𝖗𝖈𝖔⁩"
         },
         "info_listprem": {
             "texto1": [
