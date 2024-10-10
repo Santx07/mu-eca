@@ -1,4 +1,4 @@
-// KILLZN - BOT@KillzN - _antiarab.js
+// josselyne - BOT@josselyne - _antiarab.js
 
 
 const handler = (m) => m;

@@ -7,7 +7,7 @@
 /*     ◉ Número: wa.me/50766454639‬                       */
 /*                                                       */
 /*     —◉ FT:                                            */
-/*     ◉ KillzN (https://github.com/KillzN)  */
+/*     ◉ josselyne (https://github.com/josselyne)  */
 /*                                                       */
 /* [❗]                      [❗]                      [❗] */
 /* -------------------------------------------------------*/
